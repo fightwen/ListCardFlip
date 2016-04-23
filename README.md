@@ -3,8 +3,6 @@
 <br/>感謝：http://blog.csdn.net/guolin_blog/article/details/10766017/
 <br/>
 <br/>
-<br/>
-<br/>
 <br/>正面<br/>
 ![Alt text](https://github.com/fightwen/ListCardFlip/blob/master/device-2016-04-23-170447.png)
 <br/>翻面後<br/>
