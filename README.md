@@ -2,10 +2,13 @@
 翻牌的ListView，利用縮放兩張卡片，正面卡片由x軸最大值縮為0，反面卡片由0放大為最大值。
 <br/>感謝：http://blog.csdn.net/guolin_blog/article/details/10766017/
 <br/>
+<br/>Use ScaleAnimation to change forward of the card x -axis maximum reduction of 0 , 0 zoom back of the card by the maximum.
+<br/>Thanks:http://blog.csdn.net/guolin_blog/article/details/10766017/
 <br/>
-<br/>正面<br/>
+<br/>
+<br/>正面forward<br/>
 ![Alt text](https://github.com/fightwen/ListCardFlip/blob/master/device-2016-04-23-170447.png)
-<br/>翻面後<br/>
+<br/>翻面後back<br/>
 ![Alt text](https://github.com/fightwen/ListCardFlip/blob/master/device-2016-04-23-170508.png)
 
 
